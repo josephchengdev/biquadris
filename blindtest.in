@@ -1,0 +1,9 @@
+sequence blindtest.txt
+drop
+blind
+99right
+drop
+restart
+drop
+drop
+99drop
