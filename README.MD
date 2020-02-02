@@ -2,7 +2,12 @@
 
 ### Overview
 This project is essentially a tetris clone with a modified ruleset. It was built with 2 other people as the final project of CS246 at the University of Waterloo and earned a final grade of 103%. I was responsible for creating the game engine and game input. For more information and screenshots, please visit my [website](https://josephcheng.dev/work;project=biquadris "website").
-### Setup and Installation
+
+### Images of The Game
+![Image Of Graphics Mode](https://github.com/josephchengdev/biquadris/raw/master/misc/graphics.png)
+![Image Of Command Line Mode](https://github.com/josephchengdev/biquadris/raw/master/misc/commandline.png)
+
+### To Play The Game Yourself
 
 1) Install XQuartz and restart your computer (https://www.xquartz.org/)
 2) Clone and extract this project to somewhere on your computer
