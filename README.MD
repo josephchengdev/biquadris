@@ -1,4 +1,4 @@
-##Biquadris
+# Biquadris
 
 ### Overview
 This project is essentially a tetris clone with a modified ruleset. It was built with 2 other people as the final project of CS246 at the University of Waterloo and earned a final grade of 103%. I was responsible for creating the game engine and game input. For more information and screenshots, please visit my [website](https://josephcheng.dev/work;project=biquadris "website").
